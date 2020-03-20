@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Hello eyeryone!
+I am a tech geek and cybersecurity enthusiast.I have worked on many projects and am at a leading position in 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
