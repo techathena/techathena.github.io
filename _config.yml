@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "techathena.tech"
+url: http://techathena.tech
 # If you're hosting your site at a Project repository on GitHub pages
 #http://techathena.github.io/techathena.github.io
 # and NOT your User repository (http://yourusername.github.io)
