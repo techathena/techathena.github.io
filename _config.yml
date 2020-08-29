@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: "techathena.tech"
 # If you're hosting your site at a Project repository on GitHub pages
 #http://techathena.github.io/techathena.github.io
 # and NOT your User repository (http://yourusername.github.io)
@@ -80,4 +80,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  # - CNAME
+  - CNAME
