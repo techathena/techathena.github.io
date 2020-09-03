@@ -36,5 +36,11 @@ The fields are:
 ### Target hardware address(variable)
 ### Target Protocol address(variable)
 
+# There are four cases of ARP 
+ ### * Host has packet to send to same network
+ ### * Host has packet to send to another network
+ ### * router has packet to send to another network
+ ### * Router get packet to send to a host in same network
+
 
 Sources: Data Communications and Networking by Behrouz A. Forouzan
