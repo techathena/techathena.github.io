@@ -26,21 +26,21 @@ We used to use ARP and RARP.RARP is deprecated and DHCP is more used these days.
 ![image_tpm](https://raw.githubusercontent.com/techathena/techathena.github.io/master/images/arp.jpg)
 
 The fields are:
-### Hardware Type(16 bit)
-### Protocol Type(16 bit)
-### Hardware Length(8 bit)
-### Protocol Length(8 bit)
-### Operations(16 bit)
-### Sender hardware address(variable)
-### Sender protocol address(variable)
-### Target hardware address(variable)
-### Target Protocol address(variable)
+#### Hardware Type(16 bit)
+#### Protocol Type(16 bit)
+#### Hardware Length(8 bit)
+#### Protocol Length(8 bit)
+#### Operations(16 bit)
+#### Sender hardware address(variable)
+#### Sender protocol address(variable)
+#### Target hardware address(variable)
+#### Target Protocol address(variable)
 
 # There are four cases of ARP 
- ### * Host has packet to send to same network
- ### * Host has packet to send to another network
- ### * router has packet to send to another network
- ### * Router get packet to send to a host in same network
+ * Host has packet to send to same network
+* Host has packet to send to another network
+* router has packet to send to another network
+* Router get packet to send to a host in same network
 
 
 Sources: Data Communications and Networking by Behrouz A. Forouzan
