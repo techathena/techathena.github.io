@@ -4,7 +4,7 @@ title: Some Stuff About ARP
 ---
 ARP Stands address resolution protocol.It is a simple protocol which helps us identify MAC addresses.
 Hosts or routers are recogonised on the network level by IP addresses.Similarly, at the physical level they are recogonised by their mac address.
-* note: ARP is a network layer protocol 
+ARP is a network layer protocol.Also , ARP request is multicast and ARP reply is unicast.
 
 # Network Address mapping
 These physical and network addresses need to be mapped.We need to know which ip address has which mac address.
