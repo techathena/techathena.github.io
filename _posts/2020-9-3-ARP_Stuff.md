@@ -25,12 +25,25 @@ We used to use ARP and RARP.RARP is deprecated and DHCP is more used these days.
 # ARP packet format
 ![image_tpm](https://raw.githubusercontent.com/techathena/techathena.github.io/master/images/arp.jpg)
 
+The fields are:
 ### Hardware Type
+16 bit
 ### Protocol Type
+16 bit
 ### Hardware Length
+8 bit
 ### Protocol Length
+8 bit
 ### Operations
+16 bit
 ### Sender hardware address
+variable
 ### Sender protocol address
+variable
 ### Target hardware address
+variable
 ### Target Protocol address
+variable
+
+
+Sources: Data Communications and Networking by Behrouz A. Forouzan
