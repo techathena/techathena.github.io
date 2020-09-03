@@ -11,9 +11,12 @@ These physical and network addresses need to be mapped.We need to know which ip 
 
 ## 1.Static Address Mapping:
 Here we make a table about which IP address belongs to which MAC.But this has a few drwabacks which include:
+
 => MAC address can change whith change in the NIC
+
 => In some LAN Networks ,MAC address changes every time the computer is turned on.
-+>Acomputer can moce from one physical network to another which can change Mac .(note: MAC is unique in a network not universally)
+
+=>Acomputer can moce from one physical network to another which can change Mac .(note: MAC is unique in a network not universally)
 
 ## 2.Dynamic Address Mapping
 If we know one of the two addresses ,then we can use some protocol to find the other
