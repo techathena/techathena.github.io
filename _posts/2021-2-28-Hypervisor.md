@@ -22,3 +22,6 @@ Unlike baremetal hypervisor which can dynamically allocate system resources like
 
 There are some hypervisors like linux KVM which acts like a kernel module and turn the os into a hypervisor.
 
+## Hypervisor and virtualisation
+virtualisation in loose terms means to run an OS virtually in an operating system whereas hypervisor also offers the oppurtunity of installing virtual machines on a 
+machine without installing a host operating systems in case of baremetal hypervisors
